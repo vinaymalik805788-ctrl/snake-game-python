@@ -1,1 +1,1 @@
-# snake-game-python
+# vinay-game-python
